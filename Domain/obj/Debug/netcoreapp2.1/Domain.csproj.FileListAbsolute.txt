@@ -1,8 +1,0 @@
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/bin/Debug/netcoreapp2.1/Domain.deps.json
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/bin/Debug/netcoreapp2.1/Domain.dll
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/bin/Debug/netcoreapp2.1/Domain.pdb
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.csproj.CoreCompileInputs.cache
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.AssemblyInfoInputs.cache
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.AssemblyInfo.cs
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.dll
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.pdb

@@ -20,15 +20,15 @@ namespace Infrastructure.Services
         {
             if (_queryLoaderService.queryType == QueryType.routedistance)
             {
-                CalculateRouteDistance();
+                return CalculateRouteDistance();
             }
             else if(_queryLoaderService.queryType == QueryType.numberoftrips)
             {
-                CalculateDifferentRoutes();
+                return CalculateDifferentRoutes();
             }
             else if(_queryLoaderService.queryType == QueryType.shortestroute)
             {
-                CalculateShortestRoute();
+                return CalculateShortestRoute();
             }
 
             return null;

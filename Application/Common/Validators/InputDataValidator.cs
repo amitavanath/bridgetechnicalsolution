@@ -8,9 +8,7 @@ namespace Application.Common.Validators
     {
         public InputDataValidator()
         {
-            RuleFor(route => route.RouteString).NotEmpty();
-        }
-
-        //public void Validate
+            RuleFor(route => route.RouteString).NotEmpty();            
+        }    
     }
 }

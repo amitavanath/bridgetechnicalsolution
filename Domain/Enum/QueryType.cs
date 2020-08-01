@@ -2,7 +2,7 @@
 {
     public enum QueryType
     {
-        routedistance,
+        routedistance = 1,
         numberoftrips,
         shortestroute
     }
