@@ -6,9 +6,9 @@ namespace Domain.Entities
     {
         public RouteList()
         {
-            routeDictionary = new Dictionary<string, int>();
+            RouteDictionary = new Dictionary<string, int>();
         }
 
-        public Dictionary<string, int> routeDictionary { get; set; }
+        public Dictionary<string, int> RouteDictionary { get; set; }
     }
 }

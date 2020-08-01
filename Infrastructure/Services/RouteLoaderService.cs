@@ -34,7 +34,7 @@ namespace Infrastructure.Services
                                     .Select(x => x.Trim())
                                     .ToList();
             
-            RouteList.routeDictionary = inputArr
+            RouteList.RouteDictionary = inputArr
                                          .ToDictionary(x => x.Substring(0, 2),
                                             x => int.Parse(x.Substring(2)));
 

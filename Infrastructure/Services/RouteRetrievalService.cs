@@ -18,15 +18,15 @@ namespace Infrastructure.Services
 
         public string GetAnswer()
         {
-            if (_queryLoaderService.queryType == QueryType.routedistance)
+            if (_queryLoaderService.QueryType == QueryType.routedistance)
             {
                 return CalculateRouteDistance();
             }
-            else if(_queryLoaderService.queryType == QueryType.numberoftrips)
+            else if(_queryLoaderService.QueryType == QueryType.numberoftrips)
             {
                 return CalculateDifferentRoutes();
             }
-            else if(_queryLoaderService.queryType == QueryType.shortestroute)
+            else if(_queryLoaderService.QueryType == QueryType.shortestroute)
             {
                 return CalculateShortestRoute();
             }
@@ -50,7 +50,7 @@ namespace Infrastructure.Services
 
                 if(_routeLoaderService
                     .LoadInitialRouteData()
-                    .routeDictionary
+                    .RouteDictionary
                     .TryGetValue(routeRequest, out value))
                 {
                     totalRouteDistance = totalRouteDistance + value;

@@ -5,7 +5,7 @@ namespace Application.Common.Interfaces
 {
     public interface IQueryLoaderService
     {
-        QueryType queryType { get; }
+        QueryType QueryType { get; }
         QueryParam RequestedRoutesParser();
     }
 }
