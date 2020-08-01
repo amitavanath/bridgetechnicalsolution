@@ -6,12 +6,10 @@ namespace Application.Common.Exceptions
         private static readonly string DefaultMessage = @"Query parameter 
         validation failed. Please validate query parameters.";
 
-        private string _inputString { get; set; }
-
         public QueryParamValidationException(string inputString)
             : base(DefaultMessage)
         {
-            _inputString = inputString;
+
         }
     }
 }
