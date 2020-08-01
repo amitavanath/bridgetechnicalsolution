@@ -10,7 +10,17 @@ namespace Infrastructure.Services
     public class QueryLoaderService : IQueryLoaderService
     {
         private readonly QueryParam _queryParam;
-        public QueryType QueryType { get; private set; }
+        private QueryType _queryType;
+
+        public QueryType GetQueryType()
+        {
+            return _queryType;
+        }
+
+        private void SetQueryType(QueryType value)
+        {
+            _queryType = value;
+        }
 
         public QueryLoaderService(string routes, QueryType type)
         {
@@ -22,7 +32,7 @@ namespace Infrastructure.Services
                 throw new QueryParamValidationException(routes);
             }
 
-            QueryType = type;
+            SetQueryType(type);
         }
 
         public QueryParam RequestedRoutesParser()

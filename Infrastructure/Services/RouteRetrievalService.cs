@@ -18,15 +18,15 @@ namespace Infrastructure.Services
 
         public string GetAnswer()
         {
-            if (_queryLoaderService.QueryType == QueryType.routedistance)
+            if (_queryLoaderService.GetQueryType() == QueryType.routedistance)
             {
                 return CalculateRouteDistance();
             }
-            else if(_queryLoaderService.QueryType == QueryType.numberoftrips)
+            else if(_queryLoaderService.GetQueryType() == QueryType.numberoftrips)
             {
                 return CalculateDifferentRoutes();
             }
-            else if(_queryLoaderService.QueryType == QueryType.shortestroute)
+            else if(_queryLoaderService.GetQueryType() == QueryType.shortestroute)
             {
                 return CalculateShortestRoute();
             }
