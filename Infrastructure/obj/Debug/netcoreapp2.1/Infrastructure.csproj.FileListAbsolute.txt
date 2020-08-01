@@ -1,0 +1,13 @@
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.deps.json
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.dll
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/bin/Debug/netcoreapp2.1/Infrastructure.pdb
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/bin/Debug/netcoreapp2.1/Application.dll
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/bin/Debug/netcoreapp2.1/Domain.dll
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/bin/Debug/netcoreapp2.1/Application.pdb
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/bin/Debug/netcoreapp2.1/Domain.pdb
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csprojResolveAssemblyReference.cache
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.AssemblyInfo.cs
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.dll
+/Users/amitavanath/Projects/bridgetechnicalsolution/Infrastructure/obj/Debug/netcoreapp2.1/Infrastructure.pdb
