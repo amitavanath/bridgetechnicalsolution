@@ -1,5 +1,4 @@
-﻿using System;
-namespace Domain.Enum
+﻿namespace Domain.Enum
 {
     public enum QueryType
     {

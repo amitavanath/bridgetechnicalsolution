@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Domain.Entities
 {
@@ -14,8 +13,6 @@ namespace Domain.Entities
         public string RoutePoints { get; private set; }
 
         public List<string> RequestedRoutes { get; set; }
-
-        //public Enum.QueryType QueryParamType { get; set; }
 
 
     }

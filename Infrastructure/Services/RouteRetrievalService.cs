@@ -1,12 +1,13 @@
 ﻿using Application.Common.Interfaces;
 using Domain.Enum;
 using System;
+
 namespace Infrastructure.Services
 {
     public class RouteRetrievalService : IRouteRetrievalService
     {
-        private IQueryLoaderService _queryLoaderService;
-        private IRouteLoaderService _routeLoaderService;
+        private readonly IQueryLoaderService _queryLoaderService;
+        private readonly IRouteLoaderService _routeLoaderService;
 
         public RouteRetrievalService(IRouteLoaderService routeLoaderService,
                                      IQueryLoaderService queryLoaderService)

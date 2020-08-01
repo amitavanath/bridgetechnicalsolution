@@ -3,9 +3,10 @@
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/bin/Debug/netcoreapp2.1/Application.pdb
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/bin/Debug/netcoreapp2.1/Domain.dll
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/bin/Debug/netcoreapp2.1/Domain.pdb
-/Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.csprojResolveAssemblyReference.cache
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.csproj.CoreCompileInputs.cache
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.AssemblyInfoInputs.cache
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.AssemblyInfo.cs
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.dll
 /Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.pdb
+/Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.csprojAssemblyReference.cache
+/Users/amitavanath/Projects/bridgetechnicalsolution/Application/obj/Debug/netcoreapp2.1/Application.csproj.CopyComplete

@@ -6,4 +6,3 @@
 /Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.AssemblyInfo.cs
 /Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.dll
 /Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.pdb
-/Users/amitavanath/Projects/bridgetechnicalsolution/Domain/obj/Debug/netcoreapp2.1/Domain.csprojResolveAssemblyReference.cache

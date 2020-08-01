@@ -12,9 +12,11 @@
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/bin/Debug/netcoreapp2.1/Application.pdb
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/bin/Debug/netcoreapp2.1/Infrastructure.pdb
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/bin/Debug/netcoreapp2.1/Domain.pdb
-/Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.csprojResolveAssemblyReference.cache
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.csproj.CoreCompileInputs.cache
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.AssemblyInfoInputs.cache
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.AssemblyInfo.cs
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.dll
 /Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.pdb
+/Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.csprojAssemblyReference.cache
+/Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.csproj.CopyComplete
+/Users/amitavanath/Projects/bridgetechnicalsolution/UnitTestProjectAll/obj/Debug/netcoreapp2.1/UnitTestProjectAll.genruntimeconfig.cache

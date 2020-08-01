@@ -8,4 +8,5 @@
 /Users/amitavanath/Projects/bridgetechnicalsolution/bridgetechnicalsolution/obj/Debug/netcoreapp2.1/bridgetechnicalsolution.AssemblyInfo.cs
 /Users/amitavanath/Projects/bridgetechnicalsolution/bridgetechnicalsolution/obj/Debug/netcoreapp2.1/bridgetechnicalsolution.dll
 /Users/amitavanath/Projects/bridgetechnicalsolution/bridgetechnicalsolution/obj/Debug/netcoreapp2.1/bridgetechnicalsolution.pdb
-/Users/amitavanath/Projects/bridgetechnicalsolution/bridgetechnicalsolution/obj/Debug/netcoreapp2.1/bridgetechnicalsolution.csprojResolveAssemblyReference.cache
+/Users/amitavanath/Projects/bridgetechnicalsolution/bridgetechnicalsolution/obj/Debug/netcoreapp2.1/bridgetechnicalsolution.csprojAssemblyReference.cache
+/Users/amitavanath/Projects/bridgetechnicalsolution/bridgetechnicalsolution/obj/Debug/netcoreapp2.1/bridgetechnicalsolution.genruntimeconfig.cache
