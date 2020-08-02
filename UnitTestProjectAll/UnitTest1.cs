@@ -75,7 +75,10 @@ namespace UnitTestProjectAll
                                                 int expectedLength)
         {
             Assert.Equal(expectedLength,
-                new RouteLoaderService(input).LoadInitialRouteData().RouteDictionary.Count);
+                new RouteLoaderService(input)
+                    .LoadInitialRouteData()
+                    .RouteDictionary
+                    .Count);
         }
     }
 }
