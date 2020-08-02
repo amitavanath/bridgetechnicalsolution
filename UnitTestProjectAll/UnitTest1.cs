@@ -41,7 +41,7 @@ namespace UnitTestProjectAll
         }
 
         [Fact]
-        public void TestQueryLoaderParam()
+        public void TestQueryLoaderParamValidationException()
         {           
             Assert.Throws<QueryParamValidationException>(() =>
                 new QueryLoaderService("A-",
@@ -49,10 +49,33 @@ namespace UnitTestProjectAll
         }
 
         [Fact]
-        public void TestRouteLoaderInitialRouteData()
+        public void TestRouteLoaderInputDataValidationException()
         {
             Assert.Throws<InputValidationException>(() =>
                 new RouteLoaderService(""));
+        }
+
+        [Theory]
+        [InlineData("A-B", 1)]
+        [InlineData("A-B-C", 2)]
+        public void TestQueryLoaderParserForInputs(string input,
+                                                    int expectedLength)
+        {
+            Assert.Equal(expectedLength,
+                            new QueryLoaderService(input,
+                                           Domain.Enum.QueryType.numberoftrips)
+                                                .RequestedRoutesParser()
+                                                .RequestedRoutes.Count);
+        }
+
+        [Theory]
+        [InlineData("AB5", 1)]
+        [InlineData("AB5, AC6", 2)]
+        public void TestRouteLoaderForInputs(string input,
+                                                int expectedLength)
+        {
+            Assert.Equal(expectedLength,
+                new RouteLoaderService(input).LoadInitialRouteData().RouteDictionary.Count);
         }
     }
 }
